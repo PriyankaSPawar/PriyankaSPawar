@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Priyanka 
 
-- 🌱 I’m currently learning different terminologies in Data Science & working on different data projects at WBS Coding School Data Science Bootcamp.
-- 💻  I am passionate about learning new topics in data science, visualizing data, and conducting research 🤓
-- 👀 I’m looking forward to start my journey as a Data Scientist.
+- 🌱 I hold a Master's degree in Computer Engineering and recently completed an intensive Data Science Bootcamp at WBS Coding School, Berlin.
+- 💻 I am passionate about learning new topics in data science, visualizing data, and conducting research 🤓
+- 👀 I’m looking forward to start my journey as a Data Scientist/Analyst.
 - 📫 How to reach me [Gmail](priyankaspawar2731@gmail.com)
-- 👨‍💻 My LinkedIn Profile : [LinkedIn](https://www.linkedin.com/in/priyankapawar2731)
+- 👨‍💻 My LinkedIn Profile : [LinkedIn](https://www.linkedin.com/in/priyankaspawar)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My stress-relieving remedy is 💁‍♀️ Cooking 👩‍🍳 and Listening to music 🎧 together...
 
