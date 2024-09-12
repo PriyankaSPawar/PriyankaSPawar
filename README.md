@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Priyanka 
 
-- 🌱 I hold a Master's degree in Computer Engineering and recently completed an intensive Data Science Bootcamp at WBS Coding School, Berlin.
+- 🌱 I hold a Master's degree in Computer Engineering and recently completed an intensive Data Science Bootcamp at WBS Coding School.
 - 💻 I am passionate about learning new topics in data science, visualizing data, and conducting research 🤓
 - 👀 I’m looking forward to start my journey as a Data Scientist/Analyst.
 - 📫 How to reach me [Gmail](priyankaspawar2731@gmail.com)
